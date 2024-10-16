@@ -1,0 +1,9 @@
+{
+	"name": "bricz-higher-environment",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3139bb19-0c68-4d35-86f6-b5d2141c53c8",
+		"tenantId": "094d25ba-3306-4bc2-b789-6eb55f87b309"
+	}
+}
