@@ -304,7 +304,7 @@
 				"          {Actual Orders Received},",
 				"          {Actual Units Shipped},",
 				"          {Actual Packages Shipped},",
-				"          {Open Backlog Units},",
+				"          {Open BacklogUnits} = {Open Backlog Units},",
 				"          {Open Backlog Orders},",
 				"          {Average Open UPO},",
 				"          file_name,",
